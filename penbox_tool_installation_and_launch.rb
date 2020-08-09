@@ -13,3 +13,11 @@ eval "wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.
 eval "tar xvfz pentbox-1.8.tar.gz"
 
 eval "cd /root/pentbox-1.8 && ./pentbox.rb"
+
+![pentbox tool](https://github.com/AndrewMbugua/Shell_scripts/blob/master/pentbox.png)
+
+
+
+
+
+This idea was obtained from Techrepublic- How to quickly deploy a honeypot with Kali Linux
