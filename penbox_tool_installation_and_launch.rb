@@ -14,7 +14,7 @@ eval "tar xvfz pentbox-1.8.tar.gz"
 
 eval "cd /root/pentbox-1.8 && ./pentbox.rb"
 
-![pentbox tool](https://github.com/AndrewMbugua/Shell_scripts/blob/master/pentbox.png)
+[pentbox tool](https://github.com/AndrewMbugua/Shell_scripts/blob/master/pentbox.png)
 
 
 
