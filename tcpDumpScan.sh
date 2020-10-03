@@ -5,5 +5,7 @@
 #tcpdump , which is a most powerful and widely used command-line
 # packets sniffer or package analyzer tool available on linux.
 
-tcpdump icmp > txt.txt | cat txt.txt | grep -E -o "([0-9]{1,3}[.]){3}[0-9]{1,3}"
+sudo tcpdump icmp >> txt.txt && 
 
+#filter for ip addresses
+cat txt.txt | grep -E -o "([0-9]{1,3}[.]){3}[0-9]{1,3}" >> addresses.txt
