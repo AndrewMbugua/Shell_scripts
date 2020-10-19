@@ -87,3 +87,6 @@ then
 	zenity --error --width 300 --text "The option you chose is not available"
 	fi
 	
+	#remove all aliases at the scripts end
+         unalias $REPLY
+	
