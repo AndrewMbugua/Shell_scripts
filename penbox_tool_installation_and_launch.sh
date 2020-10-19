@@ -17,6 +17,4 @@ eval "cd /root/pentbox-1.8 && ./pentbox.rb"
 [pentbox tool](http://www.techtrick.in/PentestrationTesting/PentBoxHoneyPot/3.png)
 
 
-
-
-This idea was obtained from Techrepublic- How to quickly deploy a honeypot with Kali Linux
+#This idea was obtained from Techrepublic- How to quickly deploy a honeypot with Kali Linux
