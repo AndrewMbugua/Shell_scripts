@@ -15,7 +15,8 @@ echo "Options
 5.NetworkManager.service
 6.docker.service
 7.nginx server nginx.service
-8.ssh service"
+8.ssh service
+9.Process tree"
 
 read -p "Choose an option:"
 
@@ -74,8 +75,14 @@ then
 	sshService
 	fi
 	
+	#process tree,list all processes as tree
+	if [[$REPLY -eq 9]]
+	then
+	pstree -p
+	fi
+	
 	#error message with zenity
-	if [[ $REPLY -gt 8 ]]
+	if [[ $REPLY -gt 9 ]]
 	then
 	zenity --error --width 300 --text "The option you chose is not available"
 	fi
