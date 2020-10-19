@@ -4,6 +4,9 @@
 #Scan txt file for ip addresses
 #tcpdump , which is a most powerful and widely used command-line
 #packets sniffer or package analyzer tool available on linux.
+#5 second countdown,press ok to continue
+
+(for i in $(seq 0 10 50); do echo $i; sleep 1; done) | zenity --progress --title "Capturing beginning soon..." 
 
 sudo tcpdump icmp >> txt.txt && 
 
