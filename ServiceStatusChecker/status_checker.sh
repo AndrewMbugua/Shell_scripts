@@ -74,3 +74,9 @@ then
 	sshService
 	fi
 	
+	#error message with zenity
+	if [[ $REPLY -gt 8 ]]
+	then
+	zenity --error --width 300 --text "The option you chose is not available"
+	fi
+	
