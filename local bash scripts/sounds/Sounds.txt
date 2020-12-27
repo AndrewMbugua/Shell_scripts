@@ -1,0 +1,21 @@
+I had the idea of automating some minor system warning signs like battery low using a bash script.
+
+I tried the various solutions that one can find online such as *modprobe pcspkr* and *echo -e '\a'* but non yielded the results I needed,so i chose for another path.Using the sound eXchange(sox) which supports most audio formats. Such as: wav, mp3, mpg, mp3, ogg, flac, etc
+
+MY OS (Parrot OS was already equiped with sox but incase youtre reading this and yours doesnt have it just do the following:
+
+$ sudo apt-get install sox
+$ sudo apt-get install sox libsox-fmt-all
+
+congrats,now you have sox
+
+To play all .mp3 files in any directory, change directory and use this command:
+
+play *mp3 where *mp3 is the name of the song.
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+
+
+
+12:11:24.812716 IP 192.168.43.1 > parrot: ICMP net 140.82.121.3 unreachable, length 556
+12:11:31.638082 IP 192.168.43.1 > parrot: ICMP net 140.82.121.3 unreachable, length 556
+
+
+08:11:12.952102 IP 192.168.43.1 > parrot: ICMP 192.168.43.1 udp port 37381 unreachable, length 44
+08:11:12.954279 IP 192.168.43.1 > parrot: ICMP 192.168.43.1 udp port 37381 unreachable, length 44
+08:11:12.956253 IP 192.168.43.1 > parrot: ICMP 192.168.43.1 udp port 37381 unreachable, length 44
+08:11:15.599983 IP 192.168.43.1 > parrot: ICMP 192.168.43.1 udp port netbios-ns unreachable, length 86
+08:14:01.672141 IP 192.168.43.1 > parrot: ICMP time exceeded in-transit, length 68
+08:14:01.672311 IP 192.168.43.1 > parrot: ICMP time exceeded in-transit, length 68
+08:14:01.672571 IP 192.168.43.1 > parrot: ICMP time exceeded in-transit, length 68
+08:14:01.737121 IP 10.36.0.69 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.737122 IP 10.36.0.65 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.744053 IP 10.36.0.69 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.744247 IP simba.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.744247 IP simba.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.765054 IP simba.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.765216 IP 10.10.1.22 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.765216 IP 10.10.1.22 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.765347 IP 10.10.1.22 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.767497 IP 10.10.1.21 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.804841 IP 10.10.1.21 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.804841 IP 10.10.1.21 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.805021 IP 10.10.240.10 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.807984 IP 10.10.240.10 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.807984 IP 10.10.240.10 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.827156 IP chui.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.827156 IP chui.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.827343 IP chui.telkom.co.ke > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.845115 IP 41.204.173.82 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.845283 IP 41.204.173.82 > parrot: ICMP time exceeded in-transit, length 36
+08:14:01.869408 IP 41.204.173.82 > parrot: ICMP time exceeded in-transit, length 36
+
+
+11:00:30.842909 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.842935 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.843009 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.843030 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.846459 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.846495 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.846804 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+11:00:30.846845 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 74
+
+
+
+
